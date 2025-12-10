@@ -1,0 +1,57 @@
+,,Workers Comp,BOP
+ARTISAN CONTRACTORS,Carpentry,1,0
+ARTISAN CONTRACTORS,Door/Window Installation,1,0
+ARTISAN CONTRACTORS,Electricians,1,1
+ARTISAN CONTRACTORS,"Electronic Entertainment Device 
+Installation",1,0
+ARTISAN CONTRACTORS,Glaziers/Glass Merchants,1,0
+ARTISAN CONTRACTORS,HVAC,1,1
+ARTISAN CONTRACTORS,Janitorial,1,0
+ARTISAN CONTRACTORS,Landscapers,1,1
+ARTISAN CONTRACTORS,Painters - Interior/Exterior,1,0
+ARTISAN CONTRACTORS,Plumbers,1,1
+ARTISAN CONTRACTORS,Sprinkler Installation,1,0
+ARTISAN CONTRACTORS,"Tile - Ceramic, Stone, Mosaic 
+Installation (not granite, quartz)",1,1
+AUTOMOTIVE,Rental Companies,1,0
+AUTOMOTIVE,Sales Dealers,1,0
+AUTOMOTIVE,Service & Repair Shops,1,0
+ENTERTAINMENT,Billiards/Bowling Centers,1,0
+ENTERTAINMENT,Movie Theaters,1,0
+HABITATIONAL,Apartment Buildings,0,1
+HABITATIONAL,Condominiums,0,1
+HABITATIONAL,Hotels,1,1
+HABITATIONAL,Housing Authorities,1,0
+PROFESSIONAL OFFICES,Accountants/Auditors,1,1
+PROFESSIONAL OFFICES,Attorneys/Law Firms,1,1
+PROFESSIONAL OFFICES,Clerical,1,0
+PROFESSIONAL OFFICES,Computer Programmers,1,1
+PROFESSIONAL OFFICES,Dentists,1,1
+PROFESSIONAL OFFICES,Doctors/Physicians,1,1
+PROFESSIONAL OFFICES,Engineers/Architects,0,1
+PROFESSIONAL OFFICES,Funeral Homes,1,0
+PROFESSIONAL OFFICES,Real Estate,1,1
+RELIGIOUS ORGANIZATIONS,RELIGIOUS ORGANIZATIONS,1,0
+RESTAURANTS,RESTAURANTS,1,1
+RETAIL STORES,Auto Accessories,1,1
+RETAIL STORES,Bakeries,1,1
+RETAIL STORES,Beverage,1,1
+RETAIL STORES,Clothing,1,1
+RETAIL STORES,Convenience Marts,1,0
+RETAIL STORES,Electronics,1,0
+RETAIL STORES,Furniture,1,1
+RETAIL STORES,Gas Stations,1,0
+RETAIL STORES,Grocery,1,1
+RETAIL STORES,Hardware,1,1
+RETAIL STORES,Health & Personal Care,1,1
+RETAIL STORES,Jewelry,1,0
+RETAIL STORES,Pharmacies,1,1
+RETAIL STORES,Sporting Goods/Hobby Shops,1,1
+SERVICE INDUSTRIES,Beauty/Barber Shops,1,1
+SERVICE INDUSTRIES,Carpet Cleaners,1,1
+SERVICE INDUSTRIES,Cemeteries,1,0
+SERVICE INDUSTRIES,Laundromats/Dry Cleaners,1,0
+SERVICE INDUSTRIES,Photographers,1,1
+SERVICE INDUSTRIES,Quick Printers,1,1
+SERVICE INDUSTRIES,Rental & Leasing,1,0
+SERVICE INDUSTRIES,Veterinarians,1,1

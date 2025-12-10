@@ -1,0 +1,64 @@
+Provider,Industry,CLASS OF BUSINESS,BOP,PKG,WC,UMB,Auto,IM,Cyber,EPLI
+AmTrustSmall,Professional Services,Lawyers Office,1,1,1,1,1,1,1,0
+AmTrustSmall,Professional Services,Engineers or Architects*,1,1,0.5,1,1,1,1,0.5
+AmTrustSmall,Professional Services,Accountants,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Professional Services,Photographers/Videographers,1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Professional Services,Real Estate Agents,0.5,0.5,1,0.5,0,1,1,0.5
+AmTrustSmall,Professional Services,Funeral Services,1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Professional Services,Insurance Agents,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Tech0logy,Computer Programmers,0,0.5,1,0.5,1,1,1,0.5
+AmTrustSmall,Tech0logy,Website Design,0,0.5,1,0.5,0.5,0.5,1,0.5
+AmTrustSmall,Medical,Medical Offices,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Medical,Dentists and Orthodontists,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Medical,Physical Therapy,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Personal Services,Barber / Beauty / Nail Salons,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Personal Services,Printing,0,0.5,1,0.5,0.5,0.5,1,1
+AmTrustSmall,Personal Services,Copy / Duplicating,1,1,1,1,1,1,1,1
+AmTrustSmall,Personal Services,Electronics Shops (0 cell phone stores),1,1,1,1,1,1,1,1
+AmTrustSmall,Personal Services,Tailor Shops and Shoe Repair,1,1,1,1,1,1,1,1
+AmTrustSmall,Personal Services,Dry Cleaning Receiving Stores,1,1,1,1,1,1,1,1
+AmTrustSmall,Personal Services,Photographers,1,1,1,1,1,1,1,1
+AmTrustSmall,Personal Services,Pet Grooming,1,1,1,1,0.5,1,1,1
+AmTrustSmall,Retailers,Clothing,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Retailers,Bakeries & Coffee Shops,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Retailers,Florists,1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Retailers,Gift and Hobby,1,1,1,1,1,1,1,0.5
+AmTrustSmall,Retailers,Pet Stores and Supply,1,1,1,1,1,0.5,1,0.5
+AmTrustSmall,Retailers,Optical and Hearing Aid,1,1,1,1,1,1,1,1
+AmTrustSmall,Retailers,Candy / Confectionary,1,1,1,1,1,1,1,1
+AmTrustSmall,Retailers,Auto Parts,1,1,1,1,1,1,1,1
+AmTrustSmall,Retailers,Household Appliance & Home Furnishings,1,1,1,1,1,1,1,1
+AmTrustSmall,Restaurants,Fine Dining,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,Restaurants,Fast Food,0.5,0.5,1,0.5,0.5,1,1,1
+AmTrustSmall,Restaurants,Family Sit-Down,0.5,0.5,1,0.5,0.5,1,1,1
+AmTrustSmall,Restaurants,Pizzerias,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,Restaurants,Limited Cooking & Sandwich,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,Restaurants,Fast Casual,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,Restaurants,"Beverage, Deli, & Snack Shops",1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,Contractors,Commercial Janitorial,0,1,1,1,0.5,1,1,1
+AmTrustSmall,Contractors,HVAC & Plumbing,1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Contractors,Carpentry Interior*,0.5,0.5,0.5,1,0.5,1,1,0.5
+AmTrustSmall,Contractors,Painting (Interior),1,1,0.5,1,0.5,1,1,0.5
+AmTrustSmall,Contractors,Landscaping & Lawn Care,1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Contractors,Electrical (Interior),1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Contractors,Drywall,1,1,0.5,1,0.5,1,1,0.5
+AmTrustSmall,Contractors,Flooring,1,1,1,1,0.5,1,1,0.5
+AmTrustSmall,Auto Service,General Auto Service and Repair,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,"*BOP 0t available in: AK, CA, FL, HI, MA, MD, NJ, NY, NC, PA, RI, TX, WA.",Transmission Repair,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,"BOP 0t available in: AK, CA, FL, HI, MA, MD, NJ, NY, NC, PA, RI, TX, WA.",Muffler Shops,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,"BOP 0t available in: AK, CA, FL, HI, MA, MD, NJ, NY, NC, PA, RI, TX, WA.",Collision and Auto Body,1,1,1,0.5,0.5,1,1,1
+AmTrustSmall,"BOP 0t available in: AK, CA, FL, HI, MA, MD, NJ, NY, NC, PA, RI, TX, WA.",Glass and Windshield,1,1,1,1,1,1,1,1
+AmTrustSmall,"BOP 0t available in: AK, CA, FL, HI, MA, MD, NJ, NY, NC, PA, RI, TX, WA.",Upholstery Repair,1,1,1,0.5,0.5,0.5,1,1
+AmTrustSmall,Wholesale,Clothing,0.5,0.5,1,0.5,0.5,0.5,1,1
+AmTrustSmall,Wholesale,Automobile parts and supplies (new),0.5,0.5,1,0.5,0.5,0.5,1,1
+AmTrustSmall,Wholesale,Bakeries,0.5,0.5,1,0.5,0.5,0.5,1,1
+AmTrustSmall,Wholesale,Electrical Equipment / Supplies,1,1,1,1,0.5,0.5,1,1
+AmTrustSmall,Wholesale,Plumbing Equipment / Supplies,1,1,1,1,0.5,0.5,1,1
+AmTrustSmall,Manufacturing,Metal Goods Mfg,0,0.5,0.5,0.5,0.5,0,1,1
+AmTrustSmall,Manufacturing,"Electrical Parts, Components or Accessories Mfg",0,0.5,0.5,0.5,0.5,0,1,1
+AmTrustSmall,Manufacturing,Plumbing Fixtures and Supplies Mfg,0,0.5,0.5,0.5,0.5,0,1,1
+AmTrustSmall,Manufacturing,Bakery Plants,0,0.5,0.5,0.5,0.5,0,1,1
+AmTrustSmall,Real Estate and Habitation,Commercial and Office Lessors Risk,0.5,0.5,1,0.5,0.5,0.5,1,0.5
+AmTrustSmall,Real Estate and Habitation,Apartment Buildings,0.5,0.5,1,0.5,0.5,0.5,1,0.5
+AmTrustSmall,Real Estate and Habitation,Commercial Condominium Associations,0.5,0.5,1,0.5,0.5,1,1,0.5
+AmTrustSmall,Real Estate and Habitation,Homeowner Associations,0.5,0.5,1,0.5,0.5,1,1,0.5

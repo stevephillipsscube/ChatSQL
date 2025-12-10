@@ -1,0 +1,76 @@
+Source: National Taxonomy of Exempt Entities - Core Codes,Description,CPP,Workers Comp
+Animal Related,Preservation,0,0
+Animal Related,Zoo,0,0
+Animal Related,Therapeutics,0.5,0.5
+Animal Related,Sanctuaries,0,0
+Animal Related,Shelters,0,0
+"Arts, Culture, Humanities",Cultural Ethnic Awareness,1,1
+"Arts, Culture, Humanities","Musical, Theater Groups",1,1
+"Arts, Culture, Humanities",Museums (< $50 Million Prop),1,1
+"Arts, Culture, Humanities",Humanities Organizations,1,1
+"Arts, Culture, Humanities",Performing Arts,1,0.5
+Education (no public schools),Preschool through College,0.5,0.5
+Education (no public schools),Small Community Libraries,1,1
+Education (no public schools),Vocational/Technical,1,1
+Education (no public schools),Charter/Magnet (Nonprofit Only),1,1
+Education (no public schools),After School Programs,1,1
+Emergency Services,,0,0
+Environmental/Protection/Beautification,"Water, Land Conservation",0.5,0.5
+Environmental/Protection/Beautification,"Botanical, Horticultural",1,1
+Environmental/Protection/Beautification,Garden types of clubs,1,1
+Employment/Job Related,"Counseling, Training",1,1
+Employment/Job Related,Job Assistance,0.5,0.5
+Food/Nutrition,Food Banks,1,1
+Food/Nutrition,Food Pantries,1,1
+Food/Nutrition,Congregate Meals,1,1
+Food/Nutrition,Meals on Wheels,1,1
+Food/Nutrition,Nutrition Programs,1,1
+Fund Raising,Multiple NTE Codes,0.5,0.5
+Housing/Shelter,Search Assistance,1,1
+Housing/Shelter,Homeless Shelters,".5 
+(No Male Only)",".5  
+(No Male Only)"
+Housing/Shelter,Transitional Housing,0.5,0.5
+Housing/Shelter,Group Homes,1,1
+Human Services,YWCA/YMCA,1,1
+Human Services,Adoption,0,0
+Human Services,Emergency Assistance,0,0
+Human Services,Foster Care,0,0
+Human Services,Family Services,1,1
+Human Services,Day Care,0.5,0.5
+Human Services,Thrift Shops,1,1
+Human Services,Hospice,0.5,0.5
+Human Services,Senior Centers,1,1
+Human Services,CASA’s,0.5,0.5
+Human Services,Sheltered Workshops,0.5,0.5
+Human Services,Home Health Care (Nonprofit Only),1,1
+Human Services,Goodwill,1,1
+Mental Health/Crisis Intervention - Outpatient or Residential,"Counseling, Disorders",0.5,0.5
+Mental Health/Crisis Intervention - Outpatient or Residential,"Treatment, Rehabilitation",0.5,0.5
+Mental Health/Crisis Intervention - Outpatient or Residential,Addictions,0.5,0.5
+Mutual Membership Benefit Org,Business Alliances/Coalitions,1,1
+Mutual Membership Benefit Org,"Advocacy Groups (no PACS and not politically 
+related)",1,1
+Mutual Membership Benefit Org,Chambers of Commerce,1,1
+Mutual Membership Benefit Org,Trade Associations,1,1
+Performing Arts,,1,1
+"Philanthropy, Voluntarism",Community Foundations,1,1
+"Philanthropy, Voluntarism",Private Foundations,1,1
+"Philanthropy, Voluntarism",Grant Foundations,1,1
+"Philanthropy, Voluntarism",Research Societies,1,1
+Recreation,Parks,1,1
+Recreation,Special Olympics,1,1
+Recreation,Community Rec Centers,1,1
+Recreation,Recreational Clubs,1,1
+Religion Related,"Small Churches, Synagogues, etc",".5 (No Foreign 
+Mission Exposure)","1 (No Foreign  
+Mission Exposure)"
+Science Tech Research,Professional Societies,1,1
+Science Tech Research,Institutes,1,1
+Social Science Research,Studies i.e. population,1,1
+Social Science Research,Women’s studies,1,1
+Social Science Research,Ethnic studies,1,1
+Social Science Research,Urban studies,1,1
+Youth Development,Boys & Girls Clubs,1,1
+Youth Development,Youth Centers,1,1
+Youth Development,Girl Scouts,1,1

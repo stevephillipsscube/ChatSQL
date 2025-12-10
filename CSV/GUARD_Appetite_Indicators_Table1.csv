@@ -1,0 +1,81 @@
+Provider,INDUSTRY,BUSINESS,WC,BOP,COMM UMB,COMM AUTO
+Guard,Artisan,Cable Installation - TV Internet,0.5,1,1,1
+Guard,Artisan,Driveway or Sidewalk Paving,1,1,1,1
+Guard,Contractors,Drywall Installation,0.5,1,1,1
+Guard,Contractors,Electrical Work Within Buildings,1,1,1,1
+Guard,Contractors,Excavation,0.5,0.5,0.5,0
+Guard,Contractors,"Glass, Tile, & Stone Work",0.5,1,1,1
+Guard,Contractors,HVAC & Plumbing,1,1,1,1
+Guard,Contractors,Interior Carpentry & Flooring Installation,0.5,1,1,1
+Guard,Contractors,Janitorial/Commercial Cleaning Services,0.5,1,1,1
+Guard,Contractors,Landscaping and Sprinkler Installation,1,1,1,1
+Guard,Contractors,Masonry & Concrete,0.5,1,1,1
+Guard,Contractors,Painting Interior or Exterior,0.5,1,1,1
+Guard,Contractors,Paperhanging & Interior Decorating,1,1,1,1
+Guard,Contractors,Roofing & Other work from heights,0,0,0,0.5
+Guard,Contractors,Car Wash,1,1,1,1
+Guard,Auto Service And Dealers,Gas Station With & Without Convenience Store,1,1,1,0.5
+Guard,Auto Service And Dealers,Parts/Supplies Store,1,1,1,1
+Guard,Auto Service And Dealers,Service/Repair/Body Shop,1,1,1,1
+Guard,Auto Service And Dealers,Apartment Building (<20 Stories),1,1,1,1
+Guard,Habitational and Hotels,Bed & Breakfast,1,0.5,0.5,0.5
+Guard,Habitational and Hotels,Condominium/Townhome Association,1,0.5,0.5,0.5
+Guard,Habitational and Hotels,Hotels/Motels,1,0.5,0.5,0.5
+Guard,Lessors Risk,Lessors of Buildings,1,1,1,0.5
+Guard,Lessors Risk,Building Operation/Property Mgmt.,0.5,0,0,0.5
+Guard,Professional Offices,"Accountants, Insurance, and Real Estate Agents",1,1,1,0.5
+Guard,Professional Offices,Advertising/Graphic Designers/Web Developers,1,1,1,0.5
+Guard,Professional Offices,Architects & Engineers,0.5,1,1,1
+Guard,Professional Offices,Collection Agencies,0.5,1,0.5,0.5
+Guard,Professional Offices,Consultants,0.5,1,1,0.5
+Guard,Professional Offices,Law or Legal Offices,1,1,1,0.5
+Guard,Professional Offices,Medical Offices/Physicians,1,1,1,0.5
+Guard,Professional Offices,Mortgage or Loan Brokers,1,1,1,0.5
+Guard,Professional Offices,Professional Trade Associations,0.5,0.5,0.5,0.5
+Guard,Professional Offices,Stockbrokers,1,1,1,0.5
+Guard,Professional Offices,Telemarketing & Research Services,1,1,1,0.5
+Guard,Professional Offices,Ticket/Travel Agent,1,1,1,0.5
+Guard,Professional Offices,Bars/Night Clubs,0.5,0,0,0
+Guard,Restaurants,Catering,0,0.5,0.5,0.5
+Guard,Restaurants,Catering Services Banquet Halls,0.5,0,0,0.5
+Guard,Restaurants,Family Style Restaurants,1,1,1,1
+Guard,Restaurants,Fast Food Restaurants,1,1,1,0.5
+Guard,Restaurants,Fine Dining Restaurants,1,1,1,1
+Guard,Restaurants,Limited Cooking Restaurants,1,1,1,0.5
+Guard,Restaurants,Mobile Concession Stands/Food Trucks,0.5,0,0,0
+Guard,Restaurants,Takeout Only,1,1,1,0.5
+Guard,Retail Stores,Bakeries & Coffee Shops,1,1,1,1
+Guard,Retail Stores,Beverages Alcoholic & 0n-Alcoholic,1,0.5,0.5,0.5
+Guard,Retail Stores,Building Material & Equipment,0.5,1,1,1
+Guard,Retail Stores,Clothing & Jewelry Stores,1,1,1,1
+Guard,Retail Stores,Convenience Stores,1,0.5,0.5,1
+Guard,Retail Stores,Grocery & Farmers Markets,1,0,0,1
+Guard,Retail Stores,Florists,1,1,1,1
+Guard,Retail Stores,Furniture & Fixtures,1,1,1,0.5
+Guard,Retail Stores,Pawn Shops,0.5,0,0,0.5
+Guard,Retail Stores,Tobacco & Smoke Shops,0.5,0,0,0
+Guard,Retail Stores,Variety Stores,1,1,1,1
+Guard,Service Related,"Barber, Beauty & Hair Styling Salons",1,1,1,0.5
+Guard,Service Related,Call Centers,1,1,1,0.5
+Guard,Service Related,Copying & Duplicating,1,1,1,0.5
+Guard,Service Related,Dental Laboratories,1,1,1,1
+Guard,Service Related,Glass Dealers & Glaziers,0.5,1,1,1
+Guard,Service Related,Inspectors/Appraisers,0.5,0.5,0.5,1
+Guard,Service Related,Jewelry Repair,1,1,1,1
+Guard,Service Related,Laundry & Dry Cleaning or Dyeing - Receiving Stations,1,0.5,1,1
+Guard,Service Related,Masseuse/Massage Services,0.5,0,0,0.5
+Guard,Service Related,Residential Cleaning Services,1,1,1,1
+Guard,Service Related,Shoe Repair,1,1,1,1
+Guard,Service Related,Tailoring or Dressmaking Custom,1,1,1,1
+Guard,Service Related,Veterinarians,1,1,1,0
+Guard,Wholesalers and distributors,Beverage Distributors,1,0,0,0.5
+Guard,Wholesalers and distributors,"Clothing, Textile & Furnishings",1,0.5,0.5,0.5
+Guard,Wholesalers and distributors,Computer & Electronic Products,1,0.5,0.5,1
+Guard,Wholesalers and distributors,Perishables,1,0,0,0.5
+Guard,Wholesalers and distributors,Gardening & Light Farming Supplies,1,0.5,0.5,1
+Guard,Agriculture,Except Lawn Care and Garden Centers,0.5,0,0,0
+Guard,Education,"Schools, Colleges, Daycare",0.5,0,0,0
+Guard,Entertainment,Indoor Amusement,0.5,0,0,0.5
+Guard,Entertainment,Sports and Recreation,0,0,0,0
+Guard,Manufacturing,Light Manufacturing and Assembly,0.5,0,0,0.5
+Guard,Transportation & Warehousing,"Trucking, Moving, Storage, Warehousing",0.5,0,0,0

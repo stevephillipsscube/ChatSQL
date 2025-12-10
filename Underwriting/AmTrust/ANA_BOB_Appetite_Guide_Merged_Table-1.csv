@@ -1,0 +1,293 @@
+Provider,Industry,CLASS OF BUSINESS,BOP,WC,UMB,AUTO,IM,Cyber
+AmTrust,Contractors,Appliances and Accessories Installation or Service or Repair - Household (0t including TV or Radio) (electronic install),0.5,1,0.5,0.5,1,1
+AmTrust,Contractors,Carpentry Interior,1,0.5,1,1,1,1
+AmTrust,Contractors,Dry Wall or Wallboard Installation,1,0.5,1,1,1,1
+AmTrust,Contractors,Electrical Work Within Buildings,1,1,1,1,1,1
+AmTrust,Contractors,Fence Erection Contractors (Only applies to risks that install or erect fences.),0.5,0.5,0.5,1,1,1
+AmTrust,Contractors,Floor Covering Installation - 0t Ceramic Tile or Stone,1,1,1,1,1,1
+AmTrust,Contractors,"Glass Dealers and Glaziers - Sales and Installation (Includes bending, grinding, beveling or silvering of plate glass.)",1,0.5,1,1,1,1
+AmTrust,Contractors,"Heating or Combined Heating and Air Conditioning Systems or Equipment - Dealers or Distributors and Installation, Servicing or Repair",1,1,1,1,1,1
+AmTrust,Contractors,House Furnishings Installation - 0t Otherwise Classified (Includes incidental upholstering and floor covering installation),0.5,1,0.5,1,1,1
+AmTrust,Contractors,Landscape Gardening 0 Tree Removal or Excavation,1,1,1,1,1,1
+AmTrust,Contractors,Painting - Interior Buildings or Structures,1,0.5,1,1,1,1
+AmTrust,Contractors,Plumbing - Commercial (0t Industrial),1,1,1,1,1,1
+AmTrust,Contractors,Plumbing - Residential or Domestic,1,1,1,1,0.5,1
+AmTrust,Contractors,"Refrigeration Systems or Equipment Dealers and Distributors and Installation, Servicing or Repair 0 LPG Commercial",1,0.5,1,1,1,1
+AmTrust,Habitation Apartments,"Apartment Building - 4 families or fewer, with mercantile or office occupancy (0 boarding houses, assisted living or more than 10% undergraduate student at any location)",0.5,0,0.5,0.5,1,0.5
+AmTrust,Habitation Apartments,Apartment Building - Over 4 families with mercantile or office occupancy (0 assisted living or more than 10% undergraduate student at any location),0.5,0,0.5,0.5,1,0.5
+AmTrust,Habitation Apartments,"Apartment Building - Over 4 families with 0 mercantile or office occupancy (0 boarding houses, assisted living or more than 10% undergraduate student housing at any location)",0.5,0,0.5,0.5,1,0.5
+AmTrust,Habitation Condominium,Condominium Residential Condominium (Association risk only)*,0.5,0,0.5,0.5,1,1
+AmTrust,Habitation Townhouse,"Townhouses or Similar Associations Over 4 families with mercantile or office occupancy (0 daycare, eldercare, assisted living or professional care operations, undergraduate student housing, rooming or boarding housing)",0.5,0,0.5,0.5,1,1
+AmTrust,Habitation Townhouse,"Townhouses or Similar Associations - Over 4 families with 0 mercantile or office occupancy (0 daycare, eldercare, assisted living or professional care operations, undergraduate student housing, rooming or boarding housing)",0.5,0,0.5,0.5,1,1
+AmTrust,Office,Accounting Services Office CPAs,1,1,1,0.5,1,1
+AmTrust,Office,Accounting Services Office Except CPAs,1,1,1,0.5,1,1
+AmTrust,Office,Advertising and Related Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Bookkeeping Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Credit Reporting Agencies Office,1,1,1,0.5,1,1
+AmTrust,Office,Engineers or Architects Office Consulting - 0t engaged in actual construction.,1,1,1,1,1,1
+AmTrust,Office,Insurance Agents Office,1,1,1,1,1,1
+AmTrust,Office,Interior Decorators Office,1,1,1,1,1,1
+AmTrust,Office,Lawyers Office,1,1,1,1,1,1
+AmTrust,Office,Medical Office,1,1,1,1,1,1
+AmTrust,Office,Offices Billing Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices Claims Adjusters-Independent,1,1,1,0.5,1,1
+AmTrust,Office,Offices Commercial Artists Offices,1,1,1,0.5,1,1
+AmTrust,Office,Offices Graphic Design Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices Medical Acupuncturists - Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Audiologists Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Chiropractors Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Dentists and Dental Surgeons Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Nutritionists Office,1,1,1,1,1,1
+AmTrust,Office,Offices - Medical - Ophthalmologists - Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Optometrists Office*,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Orthodontist Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Osteopaths - Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical Physical Therapists - Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical - Podiatrists - Office,1,1,1,1,1,1
+AmTrust,Office,Offices Medical Psychologists Office,1,1,1,1,1,1
+AmTrust,Office,Offices Real Estate Appraisers Office,1,1,1,1,1,1
+AmTrust,Office,Offices Tax Preparation Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices Actuarial Consultants,1,1,1,0.5,1,1
+AmTrust,Office,Offices Consultants-Comm/Media/PR/Image Office,0.5,1,0.5,0.5,1,1
+AmTrust,Office,Offices -Consultants-Educational Office,0.5,1,0.5,0.5,1,1
+AmTrust,Office,"Offices -Consultants-Executive Coaching, Training & Development - Office",0.5,1,0.5,0.5,1,1
+AmTrust,Office,Offices Drafting Services Office,0.5,1,0.5,0.5,1,1
+AmTrust,Office,Offices Court Reporting Services - Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Consultants-Business & Management Processes,0.5,1,0.5,0.5,1,1
+AmTrust,Office,Offices -Market Research Firms - Office,0.5,1,0.5,0.5,1,1
+AmTrust,Office,Offices -Mortgage Brokers Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Secretarial/Ste0graphic Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Speech Therapists Offices,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Stockbrokers Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices - -Telemarketing and Research Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Telephone Answering Services - Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Translation & Interpretation Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Travel Agencies office,1,1,1,0.5,1,1
+AmTrust,Office,Offices -Wedding Consultants,0.5,1,0.5,0.5,1,1
+AmTrust,Office,Payroll Accounting Services Office,1,1,1,0.5,1,1
+AmTrust,Office,Real Estate Agents Office,1,1,1,0,1,1
+AmTrust,Office,Ticket Agencies Office - Other Than Theatrical,1,1,1,0.5,1,1
+AmTrust,Office,Ticket Agencies Theatrical - Office,1,1,1,0.5,1,1
+AmTrust,Office,Title Agents Office,1,1,1,0.5,1,1
+AmTrust,Office,Veterinarians Office*,1,1,1,0.5,1,1
+AmTrust,Restaurants,Bagel Shops,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Casual Dining - Family-style Restaurants With sales of alcoholic beverages up to 45% of total sales,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,"Casual Dining Restaurants - Bistros, Brasseries and Cafes With 0 sales of alcoholic beverages",0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,"Casual Dining Restaurants Bistros, Brasseries and Cafes - With sales of alcoholic beverages up to .55% of total sales",0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Casual Dining Restaurants Diners With 0 sales of alcoholic beverages,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Casual Dining Restaurants Diners - With sales of alcoholic beverages up to .55% of total sales,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Casual Dining Restaurants - Family-style Restaurants With 0 sales of alcoholic beverages,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Cookie Stores,1,1,1,1,1,1
+AmTrust,Restaurants,Fast Food Restaurants Cafes,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Chicken,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Concession Stands/Snack Bars,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Delicatessens and Sandwich Shops,1,1,1,1,1,1
+AmTrust,Restaurants,Fast Food Restaurants Donut Shops,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Drive-ins/Service in Car,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants - Hamburger/Malt Shops,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants - Hotdog Shops,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Oriental Style,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Other Ethnic Style,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Pizza Shops (Up to 30% Alcohol) - 0 Delivery,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Roast Beef,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Seafood,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fast Food Restaurants Take Out Only Restaurants - 0 on-premises consumption of food,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fine Dining With sales of alcoholic beverages more than 30% up to 45% of total sales,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fine Dining Restaurants With 0 sales of alcoholic beverages,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,Fine Dining Restaurants With sales of alcoholic beverages up to 30% of total sales,0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,"Fresh Ethnic Food Stands (e.g., Sushi Stand within other retail establishments), 0 mobile food trucks 0 Seasonal",0.5,0.5,1,0.5,1,1
+AmTrust,Restaurants,"Juice, health drinks and smoothies Bars",1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants - Cafes,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Coffee Bars or Shops,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Concession Stands/Snack Bars,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Delicatessens and Sandwich Shops,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Donut Shops,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Drive-ins/Service in Car,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Ice Cream and Yogurt Stores,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Pizza Shops,1,1,1,0.5,1,1
+AmTrust,Restaurants,Limited Cooking Restaurants Salad Bars,1,1,1,0.5,1,1
+AmTrust,Restaurants,Popcorn Shops,1,1,1,1,1,1
+AmTrust,Restaurants,Pretzel Shops (0 Food Trucks),1,1,1,1,1,1
+AmTrust,Restaurants,Restaurants Fast Food Restaurants - Donut Shops 0 cooking,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Restaurants Fast Food Restaurants Pizza Shops 0 Alcohol - 0 Delivery,0.5,1,0.5,0.5,1,1
+AmTrust,Restaurants,Take-Out Only Restaurants - 0 on-premises consumption of food,0.5,1,0.5,0.5,1,1
+AmTrust,Retail,Air Conditioning Equipment Retail Only (with installation by employees up to 10%),1,1,1,1,0.5,1
+AmTrust,Retail,Appliance Stores - - Household Appliances and Home Furnishings,1,1,1,0.5,1,1
+AmTrust,Retail,"Appliance Stores - - Radio, Television and Pho0graphic Stores (including parts and supplies)",1,1,1,0.5,1,1
+AmTrust,Retail,Athletic Footwear Stores,1,1,1,1,1,1
+AmTrust,Retail,Auctioneers Sales conducted away from the insureds premises,0.5,0.5,0.5,0.5,0,1
+AmTrust,Retail,Audio/Visual Equipment Stores,1,1,1,1,1,1
+AmTrust,Retail,Automobile Parts and Supplies - Retail Stores (New parts Including Tires - 0 used parts) with less than 5% tire sales.,1,1,1,1,1,1
+AmTrust,Retail,Bakeries Retail With baking on premises,1,1,1,1,1,1
+AmTrust,Retail,Bakeries Retail 0 baking on premises,1,1,1,1,1,1
+AmTrust,Retail,Balloon and 0velty Stores,1,1,1,1,1,1
+AmTrust,Retail,"Barber, Beauty Supplies Retail",1,1,1,1,1,1
+AmTrust,Retail,Battery Stores,1,1,1,1,1,1
+AmTrust,Retail,Bed and Bath Shops,1,1,1,1,1,1
+AmTrust,Retail,Beer or Wine Making Supply Stores (0 sale of used equipment and 0 direct importing of goods),1,1,1,1,1,1
+AmTrust,Retail,Bicycle Shops Repair and Maintenance Shops without Retail,1,1,1,1,1,1
+AmTrust,Retail,Bicycle Shops Retail,1,1,1,1,1,1
+AmTrust,Retail,Books and Magazines Stores - New,1,1,1,1,1,1
+AmTrust,Retail,Books and Magazines Stores - Used,1,1,1,1,1,1
+AmTrust,Retail,Bridal Shops,1,1,1,1,1,1
+AmTrust,Retail,Camera and Photographic Equipment - Retail Only,1,1,1,1,1,1
+AmTrust,Retail,Candle Shops (0 candle making),1,1,1,1,1,1
+AmTrust,Retail,Candy or Confectionery Stores,1,1,1,1,1,1
+AmTrust,Retail,Candy or Confectionery Stores - 0 Manufacturing on Premises,1,1,1,1,1,1
+AmTrust,Retail,Catalog or Premium Coupon Redemption Stores,1,1,1,1,1,1
+AmTrust,Retail,Ceramics Retail Only,1,1,1,1,1,1
+AmTrust,Retail,Cheese Shops,1,1,1,1,1,1
+AmTrust,Retail,China and Crystal Stores,1,1,1,1,1,1
+AmTrust,Retail,"Clothing or Wearing Apparel Retail - - Clothing Ladies and Girls (Coats, Suits and Dresses) 0 sale of used merchandise or consignment goods,",1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Clothing - Mens and Boys (Coats and Suits),1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Fabric Stores (Including Millinery and Trimmings),1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - - Family Clothing Stores,1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Haberdashery and Mens Furnishings,1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Hosiery,1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Ladies Specialty Stores,1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Ladies Undergarments and Lingerie,1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Leather Products or Hide Stores,1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Mens and Boys Hats and Caps,1,1,1,1,1,1
+AmTrust,Retail,"Clothing or Wearing Apparel Retail - Shoe Stores - Childrens, Ladies and Mens",1,1,1,1,1,1
+AmTrust,Retail,Clothing or Wearing Apparel Retail - Sporting Goods and Athletic Apparel,1,1,1,1,1,1
+AmTrust,Retail,"Coffee, Tea and Spice Specialty Store",1,1,1,0.5,1,1
+AmTrust,Retail,Computer Service and Repair - On Premises only,1,1,1,0.5,0.5,1
+AmTrust,Retail,Computer Stores - (0 system design),1,1,1,1,1,1
+AmTrust,Retail,"Cosmetic, Hair or Skin Preparation - Retail Only",1,1,1,1,1,1
+AmTrust,Retail,Dairy Products or Butter and Egg Stores (Including Ice Cream),1,1,1,1,1,1
+AmTrust,Retail,Dairy Products or Butter and Egg Stores (Including Ice Cream),1,1,1,1,1,1
+AmTrust,Retail,Delicatessens Primarily retailing a range of grocery items and meats,0.5,1,0.5,0.5,1,1
+AmTrust,Retail,"Dry Goods Dealers - Retail - Including Fabrics, Yarn and Piece Goods (New Goods Only)",1,1,1,1,1,1
+AmTrust,Retail,"Edible Bouquet Stores (Baked Goods, Fresh Fruits or Vegetables)",1,1,1,0.5,1,1
+AmTrust,Retail,Education and School Supplies,1,1,1,1,1,1
+AmTrust,Retail,Electrical Lighting Stores,1,1,1,1,1,1
+AmTrust,Retail,Electronics Stores,1,1,1,1,1,1
+AmTrust,Retail,Fabric Stores,1,1,1,1,1,1
+AmTrust,Retail,Flag and Banner Stores,1,1,1,1,1,1
+AmTrust,Retail,Floor Covering Stores - Except Wood or Ceramic Tile Only,1,1,1,1,1,1
+AmTrust,Retail,Floor Covering Stores - Wood or Ceramic Tile Only,1,1,1,1,1,1
+AmTrust,Retail,Florists Retail,1,1,1,0.5,1,1
+AmTrust,Retail,"Garden Stores and Light Farming Supplies - 0 Landscaping, 0 Equipment or Truck rental (0 sale of firearms or ammunition)",1,1,1,1,1,1
+AmTrust,Retail,Gift Shops,1,1,1,1,1,1
+AmTrust,Retail,Glass Dealers and Glaziers - Retail Only - (0 past or current EXTERIOR work over two stories,1,0.5,1,1,1,1
+AmTrust,Retail,Gourmet Food Stores,1,1,1,1,1,1
+AmTrust,Retail,Greeting Cards Stores,1,1,1,1,1,1
+AmTrust,Retail,"Hardware and Tools - Retail - (0 sale of firearms, or ammunition, 0 rental operations, 0 sale of used equipment and 0 propane refilling)",0.5,1,0.5,0.5,0.5,1
+AmTrust,Retail,Health or Natural Food Stores - With an area less than 4000 square feet,0.5,1,0.5,0.5,1,1
+AmTrust,Retail,Hearing Aid Retail*,1,1,1,1,1,1
+AmTrust,Retail,"Hobby, Craft or Artists Supply - Retail",1,1,1,1,1,1
+AmTrust,Retail,"Holiday Boutiques (Christmas, etc.) - Must have one location open year-round",1,1,1,1,1,1
+AmTrust,Retail,Home Furnishings Stores (0 used merchandise or consignment goods),1,1,1,0.5,1,1
+AmTrust,Retail,Janitorial Supplies Retail,1,1,1,0.5,1,1
+AmTrust,Retail,Jewelry Retail Costume,1,1,1,0.5,0,1
+AmTrust,Retail,Kiosks 0n-food,1,1,1,1,1,1
+AmTrust,Retail,"Kitchen Accessories, Including Cutlery",1,1,1,1,1,1
+AmTrust,Retail,"Lawn, Garden Outdoor Fixtures - (0 Landscaping or Equipment or Truck rental, 0 sale of used equipment, 0 propane refilling)",1,1,1,1,1,1
+AmTrust,Retail,"Lawn, Garden Supplies 0 Landscaping or Equipment or Truck rental (0 sale of used equipment, 0 propane refilling)",1,1,1,1,1,1
+AmTrust,Retail,Luggage Goods Retail Only,1,1,1,1,1,1
+AmTrust,Retail,Mail Order Houses Retail Only,0.5,1,0.5,0,0.5,1
+AmTrust,Retail,Maternity Shops,1,1,1,1,1,1
+AmTrust,Retail,Monuments and Tombstones Retail,1,0.5,1,1,1,1
+AmTrust,Retail,Music Stores Pre-recorded,1,1,1,0.5,1,1
+AmTrust,Retail,Musical Instrument Stores - (0 rental operations),1,1,1,1,1,1
+AmTrust,Retail,Newsstands,1,1,1,0.5,1,1
+AmTrust,Retail,Office Machines or Appliances Retail 0 Repair,1,1,1,1,1,1
+AmTrust,Retail,Optical Goods Retail*,1,1,1,1,1,1
+AmTrust,Retail,"Paint, Wallpaper or Wallcovering Stores (0 sale of thinner or solvents in bulk - 55-gallon drums)",1,1,1,1,1,1
+AmTrust,Retail,"Painting, Picture or Frame Stores (0 framing or storage of high valued items ($.55,000 or more)",1,1,1,1,1,1
+AmTrust,Retail,Party Supply Stores (0 rentals operations),1,1,1,1,0.5,1
+AmTrust,Retail,"Pet Food and Supplies (0 obedience classes, veterinary, pet boarding or kennel services)",1,1,1,1,0.5,1
+AmTrust,Retail,"Pet Stores (0 obedience classes, veterinary, pet boarding or kennel services)",1,1,1,1,1,1
+AmTrust,Retail,Photographic Equipment Retail only - (Alarm required),1,1,1,0.5,0.5,1
+AmTrust,Retail,Plumbing Supplies and Fixtures - Retail - (0 sale of fire suppression systems),1,1,1,1,1,1
+AmTrust,Retail,Pool Tables and Billiards Supplies Stores,1,1,1,1,1,1
+AmTrust,Retail,Pottery Store 0 Kilns,1,1,1,1,1,1
+AmTrust,Retail,"Refrigeration Equipment - Commercial - Retail 0 roof top operations or work exceeding .5 stories, 0 crane operations and 0 equipment rental or sales of unused equipment.",0.5,0.5,0.5,0.5,1,1
+AmTrust,Retail,Religious Articles Stores,1,1,1,1,1,1
+AmTrust,Retail,Sewing Machine Stores,1,1,1,0.5,1,1
+AmTrust,Retail,Shoe Stores - Retail,1,1,1,1,1,1
+AmTrust,Retail,Specialty Foods,1,1,1,0.5,1,1
+AmTrust,Retail,Stationery or Paper Products Retail,1,1,1,1,1,1
+AmTrust,Retail,Sunglasses Shops,1,1,1,1,1,1
+AmTrust,Retail,Tie Shops,1,1,1,1,1,1
+AmTrust,Retail,Trophy Stores,1,1,1,1,1,1
+AmTrust,Retail,T-Shirt Shops 0 screen printing,1,1,1,1,1,1
+AmTrust,Retail,"Uniform Stores - 0 laundry, Dry Cleaning or Rental",1,1,1,1,1,1
+AmTrust,Retail,Vacuum Cleaner Sales and Service without Central Installation - - (0 used merchandise),1,1,1,0.5,1,1
+AmTrust,Retail,Video Stores - Sales,0.5,1,0.5,0.5,0.5,1
+AmTrust,Retail,Wigs Retail only,1,1,1,1,1,1
+AmTrust,Retail,AmTrust Class Type,1,1,1,1,1,1
+AmTrust,Service,Barber Shops*,1,1,1,1,1,1
+AmTrust,Service,Beauty Parlors and Hair Styling Salons*,1,1,1,1,1,1
+AmTrust,Service,Bookbinding and Printing Supplies Retail,1,1,1,1,1,1
+AmTrust,Service,Cemeteries Other than 0t-For-Profit,0.5,0.5,0.5,0.5,1,1
+AmTrust,Service,Clock Shop with Repair,1,1,1,1,1,1
+AmTrust,Service,Copying and Duplicating Stores,1,1,1,1,1,1
+AmTrust,Service,Dental Laboratories*,1,1,1,1,1,1
+AmTrust,Service,Engraving,1,1,1,1,1,1
+AmTrust,Service,Funeral Homes or Chapels*,1,1,1,0.5,1,1
+AmTrust,Service,Laundry and Dry Cleaning - Laundry and Dry Cleaning or Dyeing Receiving Stations,1,1,1,1,1,1
+AmTrust,Service,Locksmiths,1,1,1,1,1,1
+AmTrust,Service,Mailbox or Packaging Stores - Packaging Services (Except packing and crating for transportation),1,1,1,0.5,0.5,1
+AmTrust,Service,Mailbox or Packaging Stores Packing and Preparing Goods for Shipping,1,1,1,0.5,0.5,1
+AmTrust,Service,Mailing or Addressing Companies Direct Mailing Companies,1,1,1,0.5,1,1
+AmTrust,Service,Mailing or Addressing Companies Mailing List Compiling Services/Mailing List Publishers,1,1,1,0.5,1,1
+AmTrust,Service,Nail Salons*,1,1,1,1,1,1
+AmTrust,Service,Pet Day Care - 0 overnight boarding 0 kennels,0.5,1,0.5,0.5,1,1
+AmTrust,Service,Pet Groomers Only- 0 other operations,1,1,1,0.5,1,1
+AmTrust,Service,Photoengraving,0.5,1,0.5,0.5,0.5,1
+AmTrust,Service,"Photographers (0 photography sessions using high value props (i.e., sports cars, vehicles, designer gowns, jewelry, etc.)",1,1,1,0.5,1,1
+AmTrust,Service,Printing*,0.5,1,0.5,0.5,0.5,1
+AmTrust,Service,Shoe Stores - Repair,1,1,1,1,1,1
+AmTrust,Service,Tailoring or Dressmaking Establishments Custom,1,1,1,1,1,1
+AmTrust,Service,Taxidermists,1,1,1,0.5,1,1
+AmTrust,Service,"Videographers (0 Photography sessions using high value props (i.e., sports cars, vehicles, designer gowns, jewelry, etc.)",1,1,1,0.5,1,1
+AmTrust,Wholesale,Appliance Distributors - Household and Home Furnishings,0.5,0.5,0.5,0.5,0.5,1
+AmTrust,Wholesale,"Appliance Distributors - Household Types Radio, Television or Compact Disc Players",0.5,0.5,0.5,0.5,0.5,1
+AmTrust,Wholesale,Bakeries Distributors - 0 baking on premises,1,1,1,1,1,1
+AmTrust,Wholesale,Barber or Beauty Shop Supplies Distributors,1,1,1,1,0.5,1
+AmTrust,Wholesale,Bookbinding and Printing Supplies Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Books/Magazines/Stationery/Cards/Paper Products Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Bottled Water Dealers and Distributors,0.5,0.5,0.5,0.5,0.5,1
+AmTrust,Wholesale,Canned Foods Wholesale (0 repacking or relabeling of goods and 0 direct importing of goods from outside the United States),1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Clothing or Wearing Apparel - Distributors - Mens and Boys Clothing and Furnishings (0 sale of childrens or infants clothing/sleepwear),1,1,1,1,0.5,1
+AmTrust,Wholesale,"Coffee, Tea and Spice Distributors",1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Collectibles and Memorabilia Distributors,0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,Computers Including Software and Accessories Wholesale,0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,"Cosmetic, Hair or Skin Preparation Distributors",1,1,1,1,0.5,1
+AmTrust,Wholesale,"Dry Goods Linens, Curtains or Draperies - Wholesale",1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Electrical Lighting Fixtures and Fans - - Wholesale,0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,Electrical Supplies Wholesale Alarm Required,0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,"Electronic Equipment, Wiring Suppliers, Construction Material Wholesale- Alarm Required",0.5,0.5,0.5,0.5,0.5,1
+AmTrust,Wholesale,"Equipment, Fixtures or Supplies Distributors - Office and Store Equipment",0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,"Equipment, Fixtures or Supplies Distributors - Restaurant, Bars and Hotel Equipment (0 employee installation or repair)",0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,Fabric Distributors,0.5,1,0.5,0.5,0,1
+AmTrust,Wholesale,Floor Covering Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Florists Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Footwear and Shoe Wholesalers,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Gift Items - Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Glass 0velty Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Hardware and Tools - Distributors,0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,Hearing Aid Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Heating or Combined Heating and Air Conditioning equipment - Distributors Only - (0 employee installation or repair),1,0.5,1,1,0.5,1
+AmTrust,Wholesale,"Hobby, Craft or Artists Supply Distributors",1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Home Furnishing and Accessory Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Household Products Distributor,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Household Products Distributor - Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Janitorial Supplies Distributors,0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,Monuments and Tombstones - Wholesale,1,0.5,1,0.5,0.5,1
+AmTrust,Wholesale,Office Machines or Appliances Distributors,1,0.5,1,0.5,0.5,1
+AmTrust,Wholesale,Office Supplies &amp; Stationery Wholesaler,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Optical Goods - Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Paper Products Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Pet Supplies Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Plumbing Supplies and Fixtures - Distributors,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Printing and Bookbinding Supplies Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,"Radio, TV and Audio Equipment - Wholesale",0.5,1,0.5,0.5,0.5,1
+AmTrust,Wholesale,"Records, Audio and/or Video Tapes, Compact Discs and Sheet Music - Sales or Rental Wholesale",1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Refrigeration Equipment - Commercial - Distributors,0.5,0.5,0.5,0.5,1,1
+AmTrust,Wholesale,Religious Articles - 0 Precious Metals or Jewelry - Wholesale,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,School Supplies Wholesalers,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,Stationery or Paper Products Distributors - Paper,1,1,1,0.5,0.5,1
+AmTrust,Wholesale,"Stationery or Paper Products Paper (e.g., fine, printing, writing), bulk, wholesale (except office supplies, printing paper, stationery, writing paper)",1,1,1,0.5,0.5,1
+AmTrust,Wholesale,"Telephone, Pagers and Beepers - - Wholesale",0.5,1,0.5,0.5,0.5,1

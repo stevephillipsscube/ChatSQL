@@ -1,0 +1,10 @@
+streamlit
+pandas
+chromadb
+openai
+python-dotenv
+duckdb
+numpy
+sqlparse
+pdfplumber
+openpyxl

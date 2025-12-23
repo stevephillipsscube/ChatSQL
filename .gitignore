@@ -3,3 +3,4 @@ __pycache__/
 chroma_underwriting_db/
 *.jsonl
 ChatSQL/
+node_modules/

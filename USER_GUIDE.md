@@ -33,3 +33,8 @@ Below the results, you can chat with the AI.
     *   *"What are the specific property age restrictions for Travelers?"*
     *   *"Does CNA require a central station alarm for this risk?"*
     *   *"Which of these carriers offers Cyber coverage?"*
+
+### 5. Important Notes on Chat History
+*   **One Conversation at a Time**: The chat is a single, continuous thread focused on the *current* risk you are screening.
+*   **Clearing History**: If you change the risk details (e.g., change Industry from "Restaurant" to "Construction") and click **Screen Risk** again, the previous chat history will be **erased**. This ensures the AI doesn't get confused by old information.
+*   **No Long-Term Memory**: The chat history is not saved permanently. If you refresh the page or close your browser tab, the conversation is lost. Save any important answers before closing.

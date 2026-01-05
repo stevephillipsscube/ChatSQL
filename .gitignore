@@ -4,3 +4,4 @@ chroma_underwriting_db/
 *.jsonl
 ChatSQL/
 node_modules/
+chroma_underwriting_db.zip
